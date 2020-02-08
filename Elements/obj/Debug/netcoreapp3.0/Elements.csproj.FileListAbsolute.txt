@@ -1,0 +1,11 @@
+C:\Users\tdisq\source\repos\Elements\bin\Debug\netcoreapp3.0\Elements.exe
+C:\Users\tdisq\source\repos\Elements\bin\Debug\netcoreapp3.0\Elements.deps.json
+C:\Users\tdisq\source\repos\Elements\bin\Debug\netcoreapp3.0\Elements.runtimeconfig.json
+C:\Users\tdisq\source\repos\Elements\bin\Debug\netcoreapp3.0\Elements.runtimeconfig.dev.json
+C:\Users\tdisq\source\repos\Elements\bin\Debug\netcoreapp3.0\Elements.dll
+C:\Users\tdisq\source\repos\Elements\bin\Debug\netcoreapp3.0\Elements.pdb
+C:\Users\tdisq\source\repos\Elements\obj\Debug\netcoreapp3.0\Elements.AssemblyInfoInputs.cache
+C:\Users\tdisq\source\repos\Elements\obj\Debug\netcoreapp3.0\Elements.AssemblyInfo.cs
+C:\Users\tdisq\source\repos\Elements\obj\Debug\netcoreapp3.0\Elements.dll
+C:\Users\tdisq\source\repos\Elements\obj\Debug\netcoreapp3.0\Elements.pdb
+C:\Users\tdisq\source\repos\Elements\obj\Debug\netcoreapp3.0\Elements.csprojAssemblyReference.cache
